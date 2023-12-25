@@ -1,0 +1,17 @@
+print("   _~_")
+print(" ( O O )")
+print(" /  v  \ ")
+print("/( ",1," )\ ")
+
+print("   _~_")
+print(" ( O O )")
+print(" /  v  \ ")
+print("/( ",2," )\ ")
+print("  ^^ ^^")    
+print("  ^^ ^^")
+
+print("   _~_")
+print(" ( O O )")
+print(" /  v  \ ")
+print("/( ",3," )\ ")
+print("  ^^ ^^")
